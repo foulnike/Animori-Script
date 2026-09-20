@@ -5,7 +5,7 @@
 **Русификатор и набор инструментов для [AniList](https://anilist.co) — перевод интерфейса, плеер, рейтинги, дерево франшиз, экспорт и сравнение списков с Shikimori.**
 
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-02A9FF?style=flat-square&logo=javascript&logoColor=white&labelColor=0B1622)](https://greasyfork.org/ru/scripts/572948-animori-anilist-toolkit)
-[![Релиз](https://img.shields.io/github/v/release/foulnike/AniMori-AniList-Toolkit?style=flat-square&logo=github&logoColor=white&label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&labelColor=0B1622&color=02A9FF)](https://github.com/foulnike/AniMori-AniList-Toolkit/releases/latest)
+[![Релиз](https://img.shields.io/github/v/release/foulnike/Animori-Script?style=flat-square&logo=github&logoColor=white&label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&labelColor=0B1622&color=02A9FF)](https://github.com/foulnike/Animori-Script/releases/latest)
 [![Лицензия](https://img.shields.io/badge/%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MIT-02A9FF?style=flat-square&labelColor=0B1622)](LICENSE)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -36,7 +36,7 @@ AniMori — неофициальный проект и не связан с ко
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/foulnike/AniMori-AniList-Toolkit/script/assets/screenshots/home.webp" width="900" alt="Каталог AniList с переведённым интерфейсом и русскими названиями">
+<img src="https://raw.githubusercontent.com/foulnike/Animori-Script/main/assets/screenshots/home.webp" width="900" alt="Каталог AniList с переведённым интерфейсом и русскими названиями">
 
 </div>
 
@@ -44,7 +44,7 @@ AniMori — неофициальный проект и не связан с ко
 <summary><b>Страница аниме</b> — русское описание с указанием источника, рейтинги, музыкальные темы, дерево франшизы, внешние ссылки</summary>
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/foulnike/AniMori-AniList-Toolkit/script/assets/screenshots/media.webp" width="900" alt="Страница аниме с блоками AniMori">
+<img src="https://raw.githubusercontent.com/foulnike/Animori-Script/main/assets/screenshots/media.webp" width="900" alt="Страница аниме с блоками AniMori">
 </div>
 </details>
 
@@ -52,7 +52,7 @@ AniMori — неофициальный проект и не связан с ко
 <summary><b>Плеер</b> — выбор озвучки с избранным и переключение серий без перезагрузки страницы</summary>
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/foulnike/AniMori-AniList-Toolkit/script/assets/screenshots/player.webp" width="900" alt="Встроенный плеер с панелями озвучек и эпизодов">
+<img src="https://raw.githubusercontent.com/foulnike/Animori-Script/main/assets/screenshots/player.webp" width="900" alt="Встроенный плеер с панелями озвучек и эпизодов">
 </div>
 </details>
 
@@ -83,7 +83,7 @@ AniMori — неофициальный проект и не связан с ко
 2. Установите скрипт со страницы **[Greasy Fork](https://greasyfork.org/ru/scripts/572948-animori-anilist-toolkit)** — это рекомендуемый способ, он обеспечивает автообновления.
 3. Откройте [AniList](https://anilist.co) — внизу слева появится кнопка **⚙**.
 
-Файл `animori.user.js` из раздела [Releases](https://github.com/foulnike/AniMori-AniList-Toolkit/releases) — для тех, кто ставит скрипт вручную. Автообновление в любом случае идёт через Greasy Fork.
+Файл `animori.user.js` из раздела [Releases](https://github.com/foulnike/Animori-Script/releases) — для тех, кто ставит скрипт вручную. Автообновление в любом случае идёт через Greasy Fork.
 
 ## Авторизация (для экспорта и редактирования списков)
 

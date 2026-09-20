@@ -4,9 +4,15 @@
 export const IS_SHIKI = window.location.hostname.includes('shikimori')
 export const IS_ANILIST = window.location.hostname.includes('anilist.co')
 
-/** Словарь перевода интерфейса. */
+/**
+ * Словарь перевода интерфейса, лежит в `main` этого же репозитория.
+ *
+ * Прежний адрес в AniMori-AniList-Toolkit оставлен замороженным намеренно:
+ * установленные копии прежних версий тянут словарь оттуда и обновятся
+ * только с новой версией скрипта. Удалённый файл дал бы им 404.
+ */
 export const DICT_URL =
-  'https://raw.githubusercontent.com/foulnike/AniMori-AniList-Toolkit/main/dictionary.json'
+  'https://raw.githubusercontent.com/foulnike/Animori-Script/main/dictionary.json'
 
 /** `.rip` — фоллбэк для удалённых по РКН. */
 export const SHIKI_DOMAINS: readonly string[] = ['shikimori.io', 'shikimori.rip']

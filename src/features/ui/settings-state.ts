@@ -30,7 +30,7 @@ import { Logger } from '../../utils/logger'
 
 // Адреса собираются только конкатенацией, никогда шаблонной строкой.
 const HTTPS = 'https://'
-export const SUP_GITHUB = HTTPS + 'github.com/foulnike/AniMori-AniList-Toolkit'
+export const SUP_GITHUB = HTTPS + 'github.com/foulnike/Animori-Script'
 export const SUP_GREASY = HTTPS + 'greasyfork.org/scripts/572948'
 export const SUP_GREASY_FEEDBACK = SUP_GREASY + '/feedback'
 
