@@ -1,3 +1,10 @@
+# Переехало
+
+
+Юзерскрипт уходит в архив. Общее ядро и оба приложения живут в `[Animori-Desktop](https://github.com/foulnike/Animori-Desktop)`: ядро — `packages/core`, настольное приложение — `apps/windows`, приставка — `apps/android-tv`.
+
+---
+
 <div align="center">
 
 # AniMori — Toolkit for AniList
